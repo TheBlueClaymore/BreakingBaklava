@@ -1,2 +1,2 @@
 # BreakingBaklava
-a gtame for a game jam
+a game for a game jam
